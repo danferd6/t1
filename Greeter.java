@@ -19,6 +19,7 @@ public class Greeter {
   public static void main(String[] args) {
     if (args.length() == 3) {
     	System.out.println("Right length!")
+    	System.out.println("Still the correct length!")
     }
 	  
 	String language = args[0];
